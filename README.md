@@ -6,3 +6,4 @@ If I continue working on this:
 - a button to clear the budget-total expenses-balance area.
 - error handling and confirmation if the user tries to overwrite the existing budget.
 - add user instructions (?)
+- ability to toggle expense list items (click, drag, and arrange them)
