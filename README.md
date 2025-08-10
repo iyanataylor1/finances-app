@@ -7,3 +7,4 @@ If I continue working on this:
 - error handling and confirmation if the user tries to overwrite the existing budget.
 - add user instructions (?)
 - ability to toggle expense list items (click, drag, and arrange them)
+- proper column alignment (one thing under the other, it looks left aligned with a set distance between expense names, cost, and icons)
